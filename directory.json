@@ -96,7 +96,8 @@
   "Level2":"https://level2.lu/spaceapi/",
   "London Hackspace":"https://london.hackspace.org.uk/spaceapi",
   "LuXeria":"https://luxeria.ch/spaceapi.json",
-  "Maakplek":"http://maakplek.nl/api/",
+  "Maakplek":"http://maakplek.nl/api/",2
+  "machquadrat":"http://www.machquadrat.org/spaceapi.json",
   "Mainframe":"http://status.mainframe.io/api/spaceInfo",
   "MakeRiga":"https://api.makeriga.org/spaceapi.json",
   "Makers im Zigerschlitz":"https://api.zigerschlitzmakers.ch/space-api.json",
